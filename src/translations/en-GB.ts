@@ -1,0 +1,35 @@
+
+export const enGB = {
+  // British English variations
+  'nav.howItWorks': 'How It Works',
+  'dashboard.inProgress': 'In Progress',
+  'dashboard.niceDay': 'Have a pleasant',
+  'dashboard.thisMonth': 'This month',
+  'dashboard.modified': 'Modified',
+  'dashboard.performanceMetrics': 'Performance Metrics',
+  'dashboard.recentActivities': 'Recent Activities',
+  'dashboard.upcomingSpeeches': 'Upcoming Speeches',
+  'dashboard.previousSpeeches': 'Previous Speeches',
+  'dashboard.createNewSpeech': 'Create New Speech',
+  'dashboard.createFirstSpeech': 'Create Your First Speech',
+  'dashboard.noSpeeches': 'No speeches yet',
+  'dashboard.viewAll': 'View All',
+  'dashboard.basedOn': 'Based on your speech activity and engagement metrics',
+  'dashboard.summary': 'Summary',
+  'dashboard.totalSpeeches': 'Total Speeches',
+  'dashboard.improvement': 'Recent Activity',
+  'dashboard.allTime': 'All Time',
+  'dashboard.last30Days': 'Last 30 Days',
+  'dashboard.currentScore': 'Current Score',
+  'dashboard.monthlyChange': 'Monthly Change',
+  'loading': 'Loading',
+  'errors.fetchSpeeches': 'Failed to fetch speeches',
+  
+  // Settings
+  'settings.title': 'Account Settings',
+  'settings.subtitle': 'Manage your account settings and preferences',
+  'settings.tabs.profile': 'Profile',
+  'settings.tabs.billing': 'Billing', 
+  'settings.tabs.notifications': 'Notifications',
+  'settings.tabs.security': 'Security',
+};
