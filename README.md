@@ -69,8 +69,8 @@ Follow these instructions to get the project running on your local machine for d
 
 1.  **Clone the Repository**
     ```sh
-    git clone [https://github.com/your-username/speech-helper-ai.git](https://github.com/your-username/speech-helper-ai.git)
-    cd speech-helper-ai
+    git clone https://github.com/ihkokil/SpeechHelp-Ai
+    cd SpeechHelp-Ai
     ```
 
 2.  **Install Project Dependencies**
